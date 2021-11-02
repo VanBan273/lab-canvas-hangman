@@ -32,3 +32,5 @@ class HangmanCanvas {
     // ... your code goes here
   }
 }
+cuadrito verde manin
+borra todo esto
