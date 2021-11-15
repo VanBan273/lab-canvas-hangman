@@ -3,7 +3,7 @@ class HangmanCanvas {
     this.context = document.getElementById('hangman').getContext('2d');
     // ... your code goes here
   }
-
+//pepoclown pa lo verde
   createBoard() {
     // ... your code goes here
   }
